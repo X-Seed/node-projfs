@@ -1,4 +1,5 @@
 #include "functions.h"
+#include "stdafx.h"
 
 using v8::FunctionTemplate;
 
